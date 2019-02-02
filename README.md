@@ -6,9 +6,8 @@ Repositorio de la asignatura de **Desarrollo y Evaluación de Sistemas Software 
 - Correa Fernández, Gema (gecorrea@correo.ugr.es)
 - Morales Garzón, Andrea (andreamgmg@correo.ugr.es)
 
----
-
 ## Prácticas
+
 - [Práctica 1: ](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%201)
 
 - [Práctica 2: ](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%202)
