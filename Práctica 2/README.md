@@ -1,4 +1,4 @@
-# Práctica 1 de DES
+# Práctica 2 de DES
 ## Descripción Inicial del sistema. Modelado de usuarios y Escenarios
 
 A continuación, se enlazan todos los documentos usados para la realización de la primera práctica:
