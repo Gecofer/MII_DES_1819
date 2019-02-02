@@ -11,12 +11,16 @@ Repositorio de la asignatura de **Desarrollo y Evaluación de Sistemas Software 
 - [Práctica 1: Selección del Sistema Software a desarrollar](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%201)
   - Documento con una descripción inicial del problema
   - Técnicas de Brainstorming
-  - Mapa mental 
+  - Mapa mental
   - Informe del análisis de mercado
 
 
-- [Práctica 2: ](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%202) Descripción Inicial del sistema. Modelado de
-usuarios y Escenarios
+- [Práctica 2: Descripción Inicial del sistema. Modelado de usuarios y Escenarios](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%202)
+  - Conjunto de plantillas con la descripción de las personas.
+  - Conjunto de plantillas con la descripción de los escenarios.
+  - Imágenes con los storyboard creados para los escenario.
+  - Documento de visión del producto a desarrollar y del alcance del proyecto.
+
 
 - [Práctica 3: ](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%203) Iteraciones de Diseño.
 (Diseño Conceptual + Diseño Detallado)
