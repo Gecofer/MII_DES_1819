@@ -9,10 +9,10 @@ Repositorio de la asignatura de **Desarrollo y Evaluación de Sistemas Software 
 ## Prácticas
 
 - [Práctica 1: Selección del Sistema Software a desarrollar](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%201)
-  - Documento con una descripción inicial del problema
-  - Técnicas de Brainstorming
-  - Mapa mental
-  - Informe del análisis de mercado
+  - Documento con una descripción inicial del problema.
+  - Técnicas de Brainstorming.
+  - Mapa mental.
+  - Informe del análisis de mercado.
 
 
 - [Práctica 2: Descripción Inicial del sistema. Modelado de usuarios y Escenarios](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%202)
@@ -22,7 +22,25 @@ Repositorio de la asignatura de **Desarrollo y Evaluación de Sistemas Software 
   - Documento de visión del producto a desarrollar y del alcance del proyecto.
 
 
-- [Práctica 3: ](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%203) Iteraciones de Diseño.
-(Diseño Conceptual + Diseño Detallado)
+- [Práctica 3](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%203)
+  - [Práctica 3A: Iteraciones de Diseño. (Diseño Conceptual + Diseño Detallado)](https://github.com/Gecofer/MII_DES_1819/blob/master/Práctica%203/Practica3a_guion.pdf)
+    - Documento de planificación de iteraciones.
+    - Documento de arquitectura de la información (Diag. HTA y Diag. Conceptos).
+    - Diagramas de WireFlows.
+    - Bocetos de las pantallas (digitalizados y en papel).
+    - Prototipo en Justinmind (con bocetos en papel).
+    - Prototipo en Justinmind (baja fidelidad).
+    - Prototipo en Justinmind (alta fidelidad).
+    - Prototipo Funcional.
+  - [Práctica 3B: Diseño Conceptual. Sesiones de prueba](https://github.com/Gecofer/MII_DES_1819/blob/master/Práctica%203/Practica3b_guion.pdf)
+    - Informes de evaluación de usabilidad de cada una de las iteracciones.
 
-- [Práctica 4: ](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%204) Test con Usuarios y Lanzamiento
+
+- [Práctica 4: Test con Usuarios y Lanzamiento](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%204)
+  - Plantilla vacía del cuestionario a realizar.
+  - Tabla de observación de tareas.
+  - Cuestionario relleno por el participante.
+  - Hoja de cálculo con los valores de los test realizados y los resultados globales.
+  - Informe de evaluación.
+  - Página Web del Producto.
+  - Repositorio en Github.
