@@ -5,7 +5,7 @@ A continuación, se enlazan todos los documentos usados para la realización de 
 
 - [Guión de la P1](https://github.com/Gecofer/MII_DES_1819/blob/master/Práctica%201/Practica1_guion.pdf)
 - [Documento entregado en la P1](https://github.com/Gecofer/MII_DES_1819/blob/master/Práctica%201/Practica1.pdf)
-- [Presentanción de la P1](https://github.com/Gecofer/MII_DES_1819/blob/master/Práctica%201/Practica1_presentacion.pdf)
+- [Presentación de la P1](https://github.com/Gecofer/MII_DES_1819/blob/master/Práctica%201/Practica1_presentacion.pdf)
 - [Documentos usados en la P1](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%201/Documentos)
 
 ### Descripción de la práctica
