@@ -8,10 +8,12 @@ Repositorio de la asignatura de **Desarrollo y Evaluación de Sistemas Software 
 
 ## Prácticas
 
-- [Práctica 1: ](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%201)
+- [Práctica 1: ](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%201) Selección del Sistema Software a desarrollar
 
-- [Práctica 2: ](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%202)
+- [Práctica 2: ](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%202) Descripción Inicial del sistema. Modelado de
+usuarios y Escenarios
 
-- [Práctica 3: ](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%203)
+- [Práctica 3: ](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%203) Iteraciones de Diseño.
+(Diseño Conceptual + Diseño Detallado)
 
-- [Práctica 4: ](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%204)
+- [Práctica 4: ](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%204) Test con Usuarios y Lanzamiento
