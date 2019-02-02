@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="17px" viewBox="0 0 15 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>back</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bars/Navbar-360dp-black" transform="translate(-72.000000, -15.000000)" fill="#FFFFFF">
+            <g id="Group-2" transform="translate(29.000000, 0.000000)">
+                <path d="M56.2719481,15.2473593 C57.2263246,14.695639 57.9999997,15.1409225 57.9999997,16.2463373 L58,30.7555624 C58,31.859003 57.2280325,32.3072478 56.2719485,31.7545403 L43.7227789,24.4999276 C42.7684024,23.9482072 42.7666949,23.0546789 43.7227789,22.5019715 L56.2719481,15.2473593 Z" id="back"></path>
+            </g>
+        </g>
+    </g>
+</svg>
