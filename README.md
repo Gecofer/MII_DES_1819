@@ -8,7 +8,7 @@ Repositorio de la asignatura de **Desarrollo y Evaluación de Sistemas Software 
 
 ## Proyecto a desarrollar
 
-Crear una aplicación para encontrar productos necesarios para el día a día, a cualquier hora y a solo un click de distancia, con el fin de que el usuario pueda introducir un producto y disponer en un mapa de las tiendas físicas más cercanas para su recogida, pudiendo reservarlo previamente por un tiempo limitado. Además, los comercios podrán publicitarse en nuestra aplicación. En donde, distinguiremos una aplicación móvil para usuario, y una interfaz web para el comercio.
+Crear una aplicación (Clikpik) para encontrar productos necesarios para el día a día, a cualquier hora y a solo un click de distancia, con el fin de que el usuario pueda introducir un producto y disponer en un mapa de las tiendas físicas más cercanas para su recogida, pudiendo reservarlo previamente por un tiempo limitado. Además, los comercios podrán publicitarse en nuestra aplicación. En donde, distinguiremos una aplicación móvil para usuario, y una interfaz web para el comercio.
 
 
 ## Prácticas
