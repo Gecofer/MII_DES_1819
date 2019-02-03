@@ -6,6 +6,11 @@ Repositorio de la asignatura de **Desarrollo y Evaluación de Sistemas Software 
 - Correa Fernández, Gema (gecorrea@correo.ugr.es)
 - Morales Garzón, Andrea (andreamgmg@correo.ugr.es)
 
+## Proyecto a desarrollar
+
+Crear una aplicación para encontrar productos necesarios para el día a día, a cualquier hora y a solo un click de distancia, con el fin de que el usuario pueda introducir un producto y disponer en un mapa de las tiendas físicas más cercanas para su recogida, pudiendo reservarlo previamente por un tiempo limitado. Además, los comercios podrán publicitarse en nuestra aplicación. En donde, distinguiremos una aplicación móvil para usuario, y una interfaz web para el comercio.
+
+
 ## Prácticas
 
 - [Práctica 1: Selección del Sistema Software a desarrollar](https://github.com/Gecofer/MII_DES_1819/tree/master/Práctica%201)
@@ -44,3 +49,6 @@ Repositorio de la asignatura de **Desarrollo y Evaluación de Sistemas Software 
   - Informe de evaluación.
   - Página Web del Producto.
   - Repositorio en Github.
+
+
+**Si quieres conocer mejor la aplicación, visita: https://andreamorgarz.wixsite.com/website**
