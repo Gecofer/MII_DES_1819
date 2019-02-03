@@ -1,7 +1,7 @@
 # Práctica 3 de DES
 ## Iteraciones de Diseño
 
-A continuación, se enlazan todos los documentos usados para la realización de la primera práctica:
+A continuación, se enlazan los documentos usados para la realización de la tercera práctica:
 
 - [Guión de la P3A](https://github.com/Gecofer/MII_DES_1819/blob/master/Práctica%203/Practica3a_guion.pdf)
 - [Guión de la P3B](https://github.com/Gecofer/MII_DES_1819/blob/master/Práctica%203/Practica3b_guion.pdf)
