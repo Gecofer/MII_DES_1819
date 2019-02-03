@@ -32,3 +32,6 @@ En este primera iteració, se realiza todo el diseño conceptual de la app, la a
 - Informe de evaluación heurística para la Web
 
 - [Presentación de la Iteración 1 de la P3](https://github.com/Gecofer/MII_DES_1819/blob/master/Práctica%203/Iteración%201/Practica3_iteracion1_presentacion.pdf)
+
+
+**Toda la información se encuentra en el documentado entregado de la P3. Pincha [aquí](https://github.com/Gecofer/MII_DES_1819/blob/master/Práctica%203/Practica3.pdf) para acceder a él.**
