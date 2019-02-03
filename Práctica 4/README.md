@@ -8,7 +8,12 @@ A continuación, se enlazan los documentos usados para la realización de la cua
 - [Plantilla utilizada para los cuestionarios y evaluaciones de los usuarios](https://github.com/Gecofer/MII_DES_1819/blob/master/Pr%C3%A1ctica%204/Plantilla_cuestionario.pdf)
 - [Evaluaciones realizadas a los usuarios](https://github.com/Gecofer/MII_DES_1819/tree/master/Pr%C3%A1ctica%204/Cuestionarios)
 - [Nuevos avances en la aplicación](https://github.com/Gecofer/MII_DES_1819/tree/master/Pr%C3%A1ctica%204/Avances)
+	- [Bocetos](https://github.com/Gecofer/MII_DES_1819/blob/master/Pr%C3%A1ctica%204/Avances/App%20m%C3%B3vil/Bocetos.pdf)
+	- [Video del nuevo prototipo](https://github.com/Gecofer/MII_DES_1819/blob/master/Pr%C3%A1ctica%204/Avances/App%20m%C3%B3vil/AppVideo.mov)
+	- [Prototipo Justinmind](https://github.com/Gecofer/MII_DES_1819/blob/master/Pr%C3%A1ctica%204/Avances/App%20m%C3%B3vil/BocetosApp-AltaFidelidadP4.vp)
+
 - [Proyecto Justinmind](https://github.com/Gecofer/MII_DES_1819/tree/master/Pr%C3%A1ctica%204/Justinmind)
+
 
 Otros documentos de utilidad:
 - [Guión de la práctica 4](https://github.com/Gecofer/MII_DES_1819/blob/master/Pr%C3%A1ctica%204/Practica4_guion.pdf)
