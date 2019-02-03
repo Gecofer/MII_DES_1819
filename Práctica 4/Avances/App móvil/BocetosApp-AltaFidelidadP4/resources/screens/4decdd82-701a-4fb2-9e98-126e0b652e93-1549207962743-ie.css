@@ -1,0 +1,44 @@
+#s-4decdd82-701a-4fb2-9e98-126e0b652e93 #s-Image_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-4decdd82-701a-4fb2-9e98-126e0b652e93 #s-Segmented_buttons_1 {
+  border-collapse: separate;
+}
+#s-4decdd82-701a-4fb2-9e98-126e0b652e93 #s-Cell_2 > .valign {
+  vertical-align: middle;
+}
+#s-4decdd82-701a-4fb2-9e98-126e0b652e93 #s-bike_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-4decdd82-701a-4fb2-9e98-126e0b652e93 #s-Cell_4 > .valign {
+  vertical-align: middle;
+}
+#s-4decdd82-701a-4fb2-9e98-126e0b652e93 #s-car_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-4decdd82-701a-4fb2-9e98-126e0b652e93 #s-Cell_6 > .valign {
+  vertical-align: middle;
+}
+#s-4decdd82-701a-4fb2-9e98-126e0b652e93 #s-train_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-4decdd82-701a-4fb2-9e98-126e0b652e93 #s-Cell_8 > .valign {
+  vertical-align: middle;
+}
+#s-4decdd82-701a-4fb2-9e98-126e0b652e93 #s-airplane_1 {
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-4decdd82-701a-4fb2-9e98-126e0b652e93 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
